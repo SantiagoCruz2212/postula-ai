@@ -1,0 +1,12 @@
+{
+  "nombre": "Tu Nombre",
+  "email": "tu.correo@gmail.com",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "cv_pdf": "cv/CV.pdf",
+  "asunto": "Postulación a {cargo} - {nombre}",
+  "plantilla": "templates/mensaje.txt",
+  "limite_diario": 20,
+  "pausa_segundos": [45, 120],
+  "seguimiento_dias": 7
+}

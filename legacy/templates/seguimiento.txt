@@ -1,0 +1,7 @@
+Hola {contacto},
+
+Te escribo para dar seguimiento a mi postulación de {cargo} en {empresa}.
+Sigo muy interesado y quedo atento.
+
+Saludos,
+{nombre}

@@ -1,0 +1,9 @@
+Hola {contacto},
+
+Me llamo {nombre} y me interesa la vacante de {cargo} en {empresa}.
+Adjunto mi CV; cuento con experiencia que creo encaja con el perfil.
+
+Quedo atento a una conversación.
+
+Saludos,
+{nombre}
