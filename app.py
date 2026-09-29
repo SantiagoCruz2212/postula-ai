@@ -11,7 +11,7 @@ load_dotenv()
 from core import ai, db, sources, mailer
 from core.cv_parser import extract_text
 
-st.set_page_config(page_title="Auto CV", page_icon="📄", layout="wide")
+st.set_page_config(page_title="Postula AI", page_icon="📄", layout="wide")
 DATA = Path("data")
 DATA.mkdir(exist_ok=True)
 
@@ -19,7 +19,7 @@ if not os.getenv("ANTHROPIC_API_KEY"):
     st.error("Falta ANTHROPIC_API_KEY en el archivo .env")
     st.stop()
 
-st.title("📄 Auto CV — vacantes remotas para Colombia")
+st.title("📄 Postula AI — vacantes remotas para Colombia")
 tab_perfil, tab_vac, tab_hist = st.tabs(["1. Mi CV y perfil", "2. Vacantes", "3. Historial"])
 
 # ---------------------------------------------------------------- Perfil

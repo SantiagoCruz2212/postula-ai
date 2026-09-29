@@ -1,4 +1,4 @@
-# Auto CV
+# Postula AI
 
 App local (Streamlit) que analiza tu CV con Claude, busca vacantes remotas aplicables desde Colombia,
 las puntúa contra tu perfil, redacta el correo de postulación y lo envía.
